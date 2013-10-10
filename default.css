@@ -1,0 +1,117 @@
+a:active     { font-family: Verdana; font-size: 8pt; color: #800000; text-decoration: none}
+
+a:hover      { font-family: Verdana; font-size: 8pt; color: #800000; text-decoration: 
+               overline underline }               
+a:link       { font-family: Verdana; font-size: 8pt; text-decoration: none; color: #800000; border: 0;}
+a:visited    { font-family: Verdana; font-size: 8pt; text-decoration: none; color: #800000; border: 0;}
+a:visited:hover    { font-family: Verdana; font-size: 8pt; text-decoration: overline underline; color: #800000; border: 0;}
+body         { font-family: Verdana; font-size: 8pt }
+html         { font-family: Verdana; font-size: 8pt }
+table        { font-family: Verdana; font-size: 8pt }
+option       { font-family: Verdana; font-size: 8pt }
+input        { font-family: Verdana; font-size: 8pt }
+textarea     { font-family: Verdana; font-size: 8pt }
+h4		{ align: center; font-family: Verdana; font-size: 8pt }
+h3		{ align: center; font-family: Verdana; font-size: 12pt }
+h3.a 	{ font-family: Verdana; font-size: 12pt }
+h1		{ align: center; font-family: Verdana; font-size: 18pt }
+
+.imgblock a img { border: none; align: center; text-decoration: none;	}
+
+
+#idcard {
+	background: url('images/idcard-rev2.png') no-repeat center;
+	width: 500px;
+	height: 250px;
+	}
+
+#photo {
+	width: 101px;
+	height: 130px;
+	float: left;
+	position: relative; top: 15px; left: 20px;
+	}
+
+#photo img {
+	border: 4px solid #453795;
+	}
+
+#idtext {
+	width: 370px;
+	height: 200px;
+	color: #FFFFFF;
+	font-size: 15pt;
+	float: right;
+	position: relative; top: 15px; left: 0px;
+	}
+.title {
+	font-size: 10pt;
+	position: relative; top: -15px; left: 0px;
+	font-weight: bold;
+	}
+#idtext a:link {
+	color: #FFFFFF;
+	font-size: 10pt;
+	}
+
+#idtext a:visited {
+	color: #FFFFFF;
+	font-size: 10pt;
+	}
+
+#idtext a:hover {
+	color: #FFFFFF;
+	font-size: 10pt;
+	}
+	
+#idtext h1 {
+	font-size: 20pt;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	margin-top: 0px;
+	}
+	
+		
+.idtextlabels {
+	width: 155px;
+	font-size: 10pt;
+	font-weight: bold;
+	float: left;
+	text-align: left;
+	position: relative; top: 0px; left: 30px;
+	}
+	
+.idtextvalues {
+	width: 200px;
+	text-decoration: underline;
+	font-size: 10pt;
+	float: left;
+	text-align: left;
+	}
+
+#idtext2 {
+	clear: both;
+	width: 350px;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 10pt;
+	position: relative; top: -5px; left: 58px;
+	}
+	
+#idtext2 a:link {
+	color: #FFFFFF;
+	font-size: 10pt;
+	}
+	
+#idtext2 a:visited {
+	color: #FFFFFF;
+	font-size: 10pt;
+	}
+	
+#idtext2 a:hover {
+	color: #FFFFFF;
+	font-size: 10pt;
+	text-decoration: underline;
+	}
+
