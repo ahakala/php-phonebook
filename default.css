@@ -16,7 +16,7 @@ h3		{ align: center; font-family: Verdana; font-size: 12pt }
 h3.a 	{ font-family: Verdana; font-size: 12pt }
 h1		{ align: center; font-family: Verdana; font-size: 18pt }
 
-.imgblock a img { border: none; align: center; text-decoration: none;	}
+.imgblock a img { border: none; align: right; text-decoration: none;	}
 
 
 #idcard {

@@ -3,7 +3,7 @@
 <head>
 <script>
 
-function setFocus() {document.searchform.criteria.focus();}
+//function setFocus() {document.searchform.criteria.focus();}
 </script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -15,17 +15,17 @@ function setFocus() {document.searchform.criteria.focus();}
 
 <table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
 	<tr>
-		<td align="center" valign="top">
+		<td align="left" valign="top">
 		<table border="0" width="600" id="table2" cellspacing="0" cellpadding="0">
 
 			<tr>
 				<td align="center">
 
 
-<br /><div class="imgblock"><a href="./" Title="Hopkins Schools Staff Listings" Alt="Hopkins Schools Staff Listings"><img src="./images/pbooklogo.png" Title"Hopkins Schools Staff Listings" Alt="Hopkins Schools Staff Listings"></a></div><br /><br />
+<div class="imgblock"><p style="float: right; clear: right"><a href="./" Title="Hopkins Schools Staff Listings" Alt="Hopkins Schools Staff Listings"><img src="./images/pbooklogo.png" Title"Hopkins Schools Staff Listings" Alt="Hopkins Schools Staff Listings"></a></div><br /><br />
 
-<form method="GET" action="<?php echo $PHP_SELF; ?>" name="searchform">
-	<input type="text" name="criteria" size="30"><input type="submit" value="Search" name="submit"><br>
+<p><form method="GET" action="<?php echo $PHP_SELF; ?>" name="searchform">
+	<input type="text" name="criteria" size="30"><input type="submit" value="Search" name="submit"><br></p>
 	<p><input type="radio" value="l_name" name="params">Last Name*&nbsp;&nbsp;
 	<input type="radio" value="f_name" name="params"> First Name*&nbsp;&nbsp;
 	<input type="radio" value="district" name="params"> Location*&nbsp;&nbsp;
