@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <link rel="stylesheet" type="text/css" href="default.css">
-<title>Active Directory Phonebook - Provided by techmonkeys.co.uk</title></head>
+<title>Active Directory Phonebook</title></head>
 
 <body onLoad="setFocus()" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0"> 
 
@@ -19,7 +19,7 @@
 		<table border="0" width="600" id="table2" cellspacing="0" cellpadding="0">
 
 			<tr>
-				<td align="center">
+				<td align="left">
 
 
 <div class="imgblock"><p style="float: right; clear: right"><a href="./" Title="Hopkins Schools Staff Listings" Alt="Hopkins Schools Staff Listings"><img src="./images/pbooklogo.png" Title"Hopkins Schools Staff Listings" Alt="Hopkins Schools Staff Listings"></a></div><br /><br />
@@ -31,14 +31,19 @@
 	<input type="radio" value="district" name="params"> Location*&nbsp;&nbsp;
 	<!--<input type="radio" value="dept" name="params"> Department*&nbsp;&nbsp;-->
 	<input type="radio" value="all" name="params" checked> All*<br>
-	<br>
-&nbsp;
-	* Your search does not need to be a complete word or number, the first few 
-	letters are acceptable. </p>To Email a staff member please click on the first or last name.</p>
+	<br></p>
+
+<p style="float: left; clear left">When calling within our District phone network, dial only the last four digits. Building codes are listed below. Right Click on a name to copy a person's email addresss or click the name to send an email using your email program on your computer. 
+</p>
+<br>
+<br>
+<p style="float: left; clear left">* Your search does not need to be a complete word or number, the first few letters are acceptable. </p>
+<br>
+<p style="float: left; clear left">To Email a staff member please click on the first or last name.</p>
 </form>
 				
-				</td>
-			</tr>
+        </td>
+                        </tr>
 			
 
 <?php

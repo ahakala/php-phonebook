@@ -1,20 +1,20 @@
-a:active     { font-family: Verdana; font-size: 8pt; color: #800000; text-decoration: none}
+a:active     { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt; color: #800000; text-decoration: none}
 
-a:hover      { font-family: Verdana; font-size: 8pt; color: #800000; text-decoration: 
+a:hover      { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt; color: #800000; text-decoration: 
                overline underline }               
-a:link       { font-family: Verdana; font-size: 8pt; text-decoration: none; color: #800000; border: 0;}
-a:visited    { font-family: Verdana; font-size: 8pt; text-decoration: none; color: #800000; border: 0;}
-a:visited:hover    { font-family: Verdana; font-size: 8pt; text-decoration: overline underline; color: #800000; border: 0;}
-body         { font-family: Verdana; font-size: 8pt }
-html         { font-family: Verdana; font-size: 8pt }
-table        { font-family: Verdana; font-size: 8pt }
-option       { font-family: Verdana; font-size: 8pt }
-input        { font-family: Verdana; font-size: 8pt }
-textarea     { font-family: Verdana; font-size: 8pt }
-h4		{ align: center; font-family: Verdana; font-size: 8pt }
-h3		{ align: center; font-family: Verdana; font-size: 12pt }
-h3.a 	{ font-family: Verdana; font-size: 12pt }
-h1		{ align: center; font-family: Verdana; font-size: 18pt }
+a:link       { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt; text-decoration: none; color: #800000; border: 0;}
+a:visited    { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt; text-decoration: none; color: #800000; border: 0;}
+a:visited:hover    { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt; text-decoration: overline underline; color: #800000; border: 0;}
+body         { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt }
+html         { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt }
+table        { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt }
+option       { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt }
+input        { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt }
+textarea     { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 12pt }
+h4		{ align: center; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 14pt }
+h3		{ align: center; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 16pt }
+h3.a 	{ font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 16pt }
+h1		{ align: center; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 20pt }
 
 .imgblock a img { border: none; align: right; text-decoration: none;	}
 
